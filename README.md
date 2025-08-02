@@ -56,11 +56,4 @@ Check out the live demo of the website: [User-registration Website](https://user
 
 Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
 
-## Contact
-
-For more information or questions, feel free to reach out:
-
-- Email: somnathkar2023@gmail.com
-- LinkedIn: [Somnath Kar](https://www.linkedin.com/in/somnath-kar-aa73aa1a3)
-- GitHub: [SomnathKar000](https://github.com/SomnathKar000)
 
